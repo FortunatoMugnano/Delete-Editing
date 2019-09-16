@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Lasagna",
+      "instructions": "Make sauce. Cook noodles. Brown some ground meat. Then layer sauce, noodles, meat, cheese. Repeat layering once more time. Cook on 425 for 45 minutes."
+    },
+    {
+      "id": 2,
+      "title": "Burgers",
+      "instructions": "Preheat grill to 400 degress. Make 6 ground meat patties that are 1 inch thick. Grill meat for 2 minutes on each side."
+    },
+    {
+      "id": 3,
+      "title": "Mac & Cheese",
+      "instructions": "Boil water. Add macaroni. Cook for 6 minutes. Add cheese and milk. Mix."
+    }
+  ]
+}
